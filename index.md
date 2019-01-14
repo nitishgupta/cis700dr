@@ -43,7 +43,7 @@ There is no final exam.
 This is an advanced course. I view my role as guiding you through the material and helping you in your first steps as a researcher. I expect that your participation in class, reading assignments, and presentations will reflect independence, mathematical rigor and critical thinking.
 
 <br><br>
-#### [(update) Piazza Link](http://piazza.com/upenn/fall2017/cis700006)
+#### [Piazza Link](https://piazza.com/class/jqwu2evpoa06mj){:target="_blank"}
 <br><br>
 
-#### <font color="red">Please add CIS 700 in the subject of any correspondence.<font color="red">
+#### <font color="red">Please start the subject of any email correspondence with [CIS 700].<font color="red">
