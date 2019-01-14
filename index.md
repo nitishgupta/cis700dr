@@ -5,7 +5,7 @@ active_tab: main_page
 ---
 ### CIS 700: Commonsense Reasoning
 ### by [Dan Roth](http://www.cis.upenn.edu/~danroth/)
-#### Tuesday and Thursday, 1:30-3:00 PM, LOCATION
+#### Monday and Wednesday, 1:30-3:00 PM, Towne 309
 
 
 <br/>
@@ -16,22 +16,22 @@ Humans engage in reasoning – we have a store of commonsense knowledge that we 
 
 The goal of this class was to understand the literature – old and new – on commonsense: knowledge acquisition, representation and reasoning – especially in the context of natural language understanding.
 
-You will read, present and discuss papers, and do two projects. A small one in the first third of the semester, and a large and open ended one in the rest of the semester.  
+You will read, present and discuss papers, and work on two projects. A small one in the first third of the semester, and a large and open ended one in the rest of the semester.  
 
 ### Prerequisites
 
-Machine Learning class; CIS 419/519/520 or equivalent. Knowledge of NLP is recommended but not mandatory.
+Machine Learning class; CIS 419/519/520 or equivalent. NLP: Knowledge of NLP (equivalent to a basic Computational Linguistics/NLP class) is mandatory.
 
 ### Grading and Expectations
 
 There will be
-* **Course Projects** (40%) - The project will be done in teams of sizes 2 or 3; teams will proposed projects and consult us. We will have milestones along define a few intermediate stages and results will be reported and presented at the end of each stage.
+* **Course Projects** (50%) - The first project will be an individual project, and will focus on reproducing a relevant result from the literature (more detailes will be given later). The second project will be done in teams of size 2; teams will proposed projects and consult us. The first project will occupy the first third of the semester or so and will be presented once it is done. The second will begin then with a brief project proposal, and will consume your time until the end of the semester. We will have a couple of milestones along  the way, and results will be reported and presented at the end of each stage.
 
 * **Reading assignments** - Mandatory readings and additional recommended readings will be assigned every week.
 
-* **Critical Surveys** ( 6 + 6 + 6 + 12 = 30% ) - Four (4) times a semester you will write a short critical essay on one of the additional readings.
+* **Critical Surveys** (20%) - Four (4) times a semester you will write a short critical essay on one of the additional readings. In two of these you will be assigned as a discassant of a paper presentend by another student. 
 
-* **Presentations** ( 20% ) - Once or twice you will present a paper from the additional readings (30 minutes, focusing on the mathematical/technical details of the paper). The presentations will be prepared in groups, whenever possible, and a group of presentations will form a coherent tutorial, whenever possible (more on that later).
+* **Presentations** (20%) - You will present two  papers from the additional readings (30 minutes, focusing on the mathematical/technical details of the paper). In some cases, the presentations will be prepared in groups, and a group of presentations will form a coherent tutorial. In all cases, following your presentation you will write a short summary of the paper and the discussion the followed (a template will be provided). 
 
 * **Class Participation** ( 10% )
 
@@ -40,7 +40,7 @@ There is no final exam.
 
 #### Expectations
 
-This is an advanced course. I view my role as guiding you through the material and helping you in your first steps as an researcher. I expect that your participation in class, reading assignments and presentations will reflect independence, mathematical rigor and critical thinking.
+This is an advanced course. I view my role as guiding you through the material and helping you in your first steps as a researcher. I expect that your participation in class, reading assignments, and presentations will reflect independence, mathematical rigor and critical thinking.
 
 ### Timing and Staff
 
@@ -55,6 +55,6 @@ This is an advanced course. I view my role as guiding you through the material a
 #### <font color="red">Please add CIS 700 in the subject of any correspondence.<font color="red">
 
 #### Office Hours:
-##### Dan: DAY ST-ET pm. LOCATION
+##### Dan: Wednesday 12-1 pm. 461C, 3401 Walnut St.
 
 ##### Nitish: DAY ST-ET pm. LOCATION

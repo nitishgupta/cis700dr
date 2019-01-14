@@ -1,0 +1,15 @@
+- name: Dan Roth
+  pic: danroth.png
+  email: danroth@seas.upenn.edu 
+  url: https://www.cis.upenn.edu/~danroth/
+  extra_title: Instructor
+  office_hours: Wednesday, 12-1 PM
+  location: 3401 Walnut room 461C
+
+- name: Nitish Gupta
+  pic: nitish_gupta.png
+  email: nitishg@seas
+  url: https://nitishgupta.github.io/
+  office_hours: TBD
+  location: TBD
+
