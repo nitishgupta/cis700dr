@@ -1,0 +1,4 @@
+exclude: ['README.md', '*.key']
+timezone: US/Eastern
+markdown: kramdown
+# baseurl: 'http://www.cis.upenn.edu/~danroth/Teaching/CIS-700-006'
