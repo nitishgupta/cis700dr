@@ -42,19 +42,8 @@ There is no final exam.
 
 This is an advanced course. I view my role as guiding you through the material and helping you in your first steps as a researcher. I expect that your participation in class, reading assignments, and presentations will reflect independence, mathematical rigor and critical thinking.
 
-### Timing and Staff
-
-#### Instructor: [Dan Roth](http://www.cis.upenn.edu/~danroth/)
-
-#### TA: [Nitish Gupta](http://nitishgupta.github.io)
-
 <br><br>
 #### [(update) Piazza Link](http://piazza.com/upenn/fall2017/cis700006)
 <br><br>
 
 #### <font color="red">Please add CIS 700 in the subject of any correspondence.<font color="red">
-
-#### Office Hours:
-##### Dan: Wednesday 12-1 pm. 461C, 3401 Walnut St.
-
-##### Nitish: DAY ST-ET pm. LOCATION
