@@ -1,197 +1,243 @@
 # Add date: YEAR-MONTH-DATE format
--
-  authors: Niket Tandon, G. Melo and G. Weikum
-  title: Acquiring Comparative Commonsense Knowledge from the Web
-  link: https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8649/8415
-  venue: AAAI 2014
-  date:
-  presenters:
--
-  authors: Yoav Shoham
-  title: Why Knowledge Representation Matters
-  link: https://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext
-  venue: Communications of the ACM 2016
-  date:
-  presenters:
--
-  authors: Clive Thompson
-  title: How to teach Artificial Intelligence some Common Sense
-  link: https://www.wired.com/story/how-to-teach-artificial-intelligence-common-sense/
-  venue: WIRED 2018
-  date:
-  presenters:
--
-  authors: Brenden M. Lake, T. D. Ullman, J.B. Tenenbaum and J. Gershman
-  title: Building Machines That Learn and Think Like People
-  link: https://cims.nyu.edu/~brenden/1604.00289v3.pdf
-  venue: Behavioral and Brain Sciences 2016
-  date:
-  presenters:
--
-  authors: Trieu H. Trinh and Q.V. Le
-  title: A Simple Method for Commonsense Reasoning
-  link: https://arxiv.org/pdf/1806.02847.pdf
-  venue: ArXiv 2018
-  date:
-  presenters:
--
-  authors: Rowan Zellers, Y. Bisk, R. Schwartz and Y. Choi
-  title: SWAG - A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
-  link: http://aclweb.org/anthology/D18-1009
-  venue: EMNLP 2018
-  date:
-  presenters:
--
-  authors: Ali Emami et al.
-  title: A Knowledge Hunting Framework for Common Sense Reasoning
-  link: http://aclweb.org/anthology/D18-1220
-  venue: EMNLP 2018
-  date:
-  presenters:
--
-  authors: Shaohua Yang, Q. Gao, S. Saba-Sadiya and J. Y. Chai
-  title: Commonsense Justification for Action Explanation
-  link: http://aclweb.org/anthology/D18-1283
-  venue: EMNLP 2018
-  date:
-  presenters:
--
-  authors: Lisa Bauer, Y. Wang and M. Bansal
-  title: Commonsense for Generative Multi-Hop Question Answering Tasks
-  link: http://aclweb.org/anthology/D18-1454
-  venue: EMNLP 2018
-  date:
-  presenters:
--
-  authors: Drew A. Hudson and C. Manning
-  title: Compositional Attention Networks For Machine Reasoning
-  link: https://arxiv.org/pdf/1803.03067.pdf
-  venue: ICLR 2018
-  date:
-  presenters:
--
-  authors: Hannah Rashkin, A. Bosselut, M. Sap, K. Knight and Y. Choi
-  title: Modeling Naive Psychology of Characters in Simple Commonsense Stories
-  link: https://arxiv.org/pdf/1805.06533.pdf
-  venue: ACL 2018
-  date:
-  presenters:
--
-  authors: Yiben Yang, L. Birnbaum, J. Wang and D. Downey
-  title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
-  link: http://www.aclweb.org/anthology/P18-2102
-  venue: ACL 2018
-  date:
-  presenters:
--
-  authors: Shib Sankar Dasgupta, S. N. Ray and P. Talukdar
-  title: HyTE - Hyperplane-based Temporally aware Knowledge Graph Embedding
-  link: http://talukdar.net/papers/emnlp2018_HyTE.pdf
-  venue: EMNLP 2018
-  date:
-  presenters:
--
-  authors: Olivia Winn and S. Muresan
-  title: 'Lighter Can Still Be Dark: Modeling Comparative Color Descriptions'
-  link: http://www.aclweb.org/anthology/P18-2125
-  venue: ACL 2018
-  date:
-  presenters:
--
-  authors: Alice Lai and Julia Hockenmaier
-  title: Learning to Predict Denotational Probabilities For Modeling Entailment
-  link: http://www.aclweb.org/anthology/E17-1068
-  venue: EACL 2017
-  date:
-  presenters:
--
-  authors: Qiaozi Gao, S. Yang, J. Y. Chai and L. Vanderwende
-  title: What Action Causes This? Towards Naive Physical Action-Effect Prediction
-  link: http://www.aclweb.org/anthology/P18-1086
-  venue: ACL 2018
-  date:
-  presenters:
--
-  authors: Ernest David
-  title: Common Sense Problem Page
-  link: http://www-formal.stanford.edu/leora/commonsense/
-  venue: Website
-  date:
-  presenters:
--
-  authors: Arun Tejasvi Chaganty and P. Liang
-  title: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
-  link: https://cs.stanford.edu/~pliang/papers/perspectives-acl2016.pdf
-  venue: ACL 2016
-  date:
-  presenters:
--
-  authors: Jonathan Berant, I. Dagan and J. Goldberger
-  title: Global learning of focused entailment graphs
-  link: http://www.aclweb.org/anthology/P10-1124
-  venue: ACL 2010
-  date:
-  presenters:
--
-  authors: Jonathan Berant, I. Dagan and J. Goldberger
-  title: Global Learning of Typed Entailment Rules
-  link: http://www.aclweb.org/anthology/P11-1062
-  venue: ACL 2011
-  date:
-  presenters:
--
-  authors: Vivek Srikumar and C. Manning
-  title: Learning Distributed Representations for Structured Output Prediction
-  link: https://svivek.com/research/publications/SrikumarMa2014.pdf
-  venue: NIPS 2014
-  date:
-  presenters:
--
-  authors: Erdal Kuzey, V. Setty, J. Strotgen and G. Weikum
-  title: As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes
-  link: https://dl.acm.org/citation.cfm?id=2883055
-  venue: WWW 2016
-  date:
-  presenters:
--
-  authors: Tanja Samardzic and Paola Merlo
-  title: Aspect-based Learning of Event Duration Using Parallel Corpora
-  link: http://www.spur.uzh.ch/dam/jcr:52e2a511-1081-4b06-8ec5-e852cf7f0f4f/Aspect-duration.pdf
-  venue: 2016
-  date:
-  presenters:
--
-  authors: Zornitsa Kozareva and E. Hovy
-  title: Learning Temporal Information for States and Events
-  link: https://ieeexplore.ieee.org/document/6061471
-  venue: ICSC 2011
-  date:
-  presenters:
--
-  authors: Zhongqing Wang, Y. Zhang and C. Chang
-  title: Integrating Order Information and Event Relation for Script Event Prediction
-  link: http://aclweb.org/anthology/D17-1006
-  venue: EMNLP 2017
-  date:
-  presenters:
--
-  authors: Mark Granroth-Wilding and Stephen Clark
-  title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
-  link: https://dl.acm.org/citation.cfm?id=3016283
-  venue: AAAI 2016
-  date:
-  presenters:
--
-  authors: Bill MacCartney and C. Manning
-  title: Natural Logic for Textual Inference
-  link: https://nlp.stanford.edu/pubs/natlog-wtep07.pdf
-  venue: ACL Workshop on Textual Entailment and Paraphrasing 2007
-  date:
-  presenters:
--
-  authors: Gabor Angeli and C. Manning
-  title: NaturalLI - Natural Logic Inference for Common Sense Reasoning
-  link: https://nlp.stanford.edu/pubs/angeli2014-emnlp-naturalli.pdf
-  venue: EMNLP 2014
-  date:
-  presenters:
+suggested:
+    -
+        authors: Niket Tandon, G. Melo and G. Weikum
+        title: Acquiring Comparative Commonsense Knowledge from the Web
+        link: https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8649/8415
+        venue: AAAI 2014
+        date:
+        presenters:
+        nopresent: false
+    -
+        authors: Yoav Shoham
+        title: Why Knowledge Representation Matters
+        link: https://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext
+        venue: Communications of the ACM 2016
+        date:
+        presenters:
+    -
+        authors: Clive Thompson
+        title: How to teach Artificial Intelligence some Common Sense
+        link: https://www.wired.com/story/how-to-teach-artificial-intelligence-common-sense/
+        venue: WIRED 2018
+        date:
+        presenters:
+    -
+        authors: Brenden M. Lake, T. D. Ullman, J.B. Tenenbaum and J. Gershman
+        title: Building Machines That Learn and Think Like People
+        link: https://cims.nyu.edu/~brenden/1604.00289v3.pdf
+        venue: Behavioral and Brain Sciences 2016
+        date:
+        presenters:
+    -
+        authors: Trieu H. Trinh and Q.V. Le
+        title: A Simple Method for Commonsense Reasoning
+        link: https://arxiv.org/pdf/1806.02847.pdf
+        venue: ArXiv 2018
+        date:
+        presenters:
+    -
+        authors: Rowan Zellers, Y. Bisk, R. Schwartz and Y. Choi
+        title: SWAG - A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+        link: http://aclweb.org/anthology/D18-1009
+        venue: EMNLP 2018
+        date:
+        presenters:
+    -
+        authors: Ali Emami et al.
+        title: A Knowledge Hunting Framework for Common Sense Reasoning
+        link: http://aclweb.org/anthology/D18-1220
+        venue: EMNLP 2018
+        date:
+        presenters:
+    -
+        authors: Shaohua Yang, Q. Gao, S. Saba-Sadiya and J. Y. Chai
+        title: Commonsense Justification for Action Explanation
+        link: http://aclweb.org/anthology/D18-1283
+        venue: EMNLP 2018
+        date:
+        presenters:
+    -
+        authors: Lisa Bauer, Y. Wang and M. Bansal
+        title: Commonsense for Generative Multi-Hop Question Answering Tasks
+        link: http://aclweb.org/anthology/D18-1454
+        venue: EMNLP 2018
+        date:
+        presenters:
+    -
+        authors: Drew A. Hudson and C. Manning
+        title: Compositional Attention Networks For Machine Reasoning
+        link: https://arxiv.org/pdf/1803.03067.pdf
+        venue: ICLR 2018
+        date:
+        presenters:
+    -
+        authors: Hannah Rashkin, A. Bosselut, M. Sap, K. Knight and Y. Choi
+        title: Modeling Naive Psychology of Characters in Simple Commonsense Stories
+        link: https://arxiv.org/pdf/1805.06533.pdf
+        venue: ACL 2018
+        date:
+        presenters:
+    -
+        authors: Yiben Yang, L. Birnbaum, J. Wang and D. Downey
+        title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+        link: http://www.aclweb.org/anthology/P18-2102
+        venue: ACL 2018
+        date:
+        presenters:
+    -
+        authors: Shib Sankar Dasgupta, S. N. Ray and P. Talukdar
+        title: HyTE - Hyperplane-based Temporally aware Knowledge Graph Embedding
+        link: http://talukdar.net/papers/emnlp2018_HyTE.pdf
+        venue: EMNLP 2018
+        date:
+        presenters:
+    -
+        authors: Olivia Winn and S. Muresan
+        title: 'Lighter Can Still Be Dark: Modeling Comparative Color Descriptions'
+        link: http://www.aclweb.org/anthology/P18-2125
+        venue: ACL 2018
+        date:
+        presenters:
+    -
+        authors: Alice Lai and Julia Hockenmaier
+        title: Learning to Predict Denotational Probabilities For Modeling Entailment
+        link: http://www.aclweb.org/anthology/E17-1068
+        venue: EACL 2017
+        date:
+        presenters:
+    -
+        authors: Qiaozi Gao, S. Yang, J. Y. Chai and L. Vanderwende
+        title: What Action Causes This? Towards Naive Physical Action-Effect Prediction
+        link: http://www.aclweb.org/anthology/P18-1086
+        venue: ACL 2018
+        date:
+        presenters:
+    -
+        authors: Ernest David
+        title: Common Sense Problem Page
+        link: http://www-formal.stanford.edu/leora/commonsense/
+        venue: Website
+        date:
+        presenters:
+    -
+        authors: Arun Tejasvi Chaganty and P. Liang
+        title: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+        link: https://cs.stanford.edu/~pliang/papers/perspectives-acl2016.pdf
+        venue: ACL 2016
+        date:
+        presenters:
+    -
+        authors: Jonathan Berant, I. Dagan and J. Goldberger
+        title: Global learning of focused entailment graphs
+        link: http://www.aclweb.org/anthology/P10-1124
+        venue: ACL 2010
+        date:
+        presenters:
+    -
+        authors: Jonathan Berant, I. Dagan and J. Goldberger
+        title: Global Learning of Typed Entailment Rules
+        link: http://www.aclweb.org/anthology/P11-1062
+        venue: ACL 2011
+        date:
+        presenters:
+    -
+        authors: Vivek Srikumar and C. Manning
+        title: Learning Distributed Representations for Structured Output Prediction
+        link: https://svivek.com/research/publications/SrikumarMa2014.pdf
+        venue: NIPS 2014
+        date:
+        presenters:
+    -
+        authors: Erdal Kuzey, V. Setty, J. Strotgen and G. Weikum
+        title: As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes
+        link: https://dl.acm.org/citation.cfm?id=2883055
+        venue: WWW 2016
+        date:
+        presenters:
+    -
+        authors: Tanja Samardzic and Paola Merlo
+        title: Aspect-based Learning of Event Duration Using Parallel Corpora
+        link: http://www.spur.uzh.ch/dam/jcr:52e2a511-1081-4b06-8ec5-e852cf7f0f4f/Aspect-duration.pdf
+        venue: 2016
+        date:
+        presenters:
+    -
+        authors: Zornitsa Kozareva and E. Hovy
+        title: Learning Temporal Information for States and Events
+        link: https://ieeexplore.ieee.org/document/6061471
+        venue: ICSC 2011
+        date:
+        presenters:
+    -
+        authors: Zhongqing Wang, Y. Zhang and C. Chang
+        title: Integrating Order Information and Event Relation for Script Event Prediction
+        link: http://aclweb.org/anthology/D17-1006
+        venue: EMNLP 2017
+        date:
+        presenters:
+    -
+        authors: Mark Granroth-Wilding and Stephen Clark
+        title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
+        link: https://dl.acm.org/citation.cfm?id=3016283
+        venue: AAAI 2016
+        date:
+        presenters:
+    -
+        authors: Bill MacCartney and C. Manning
+        title: Natural Logic for Textual Inference
+        link: https://nlp.stanford.edu/pubs/natlog-wtep07.pdf
+        venue: ACL Workshop on Textual Entailment and Paraphrasing 2007
+        date:
+        presenters:
+    -
+        authors: Gabor Angeli and C. Manning
+        title: NaturalLI - Natural Logic Inference for Common Sense Reasoning
+        link: https://nlp.stanford.edu/pubs/angeli2014-emnlp-naturalli.pdf
+        venue: EMNLP 2014
+        date:
+        presenters:
+    -
+        authors: Georgios P. Spithourakis and Sebastian Riedel
+        title: 'Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers'
+        link: https://arxiv.org/pdf/1805.08154.pdf
+        venue: ACL 2018
+        date:
+        presenters:
+    -
+        authors: Georgios P. Spithourakis, I. Augenstein and S. Riedel
+        title: 'Numerically Grounded Language Models for Semantic Error Correction'
+        link: https://arxiv.org/pdf/1608.04147.pdf
+        venue: EMNLP 2016
+        date:
+        presenters:
+
+old:
+    -
+        authors: Robert C. More
+        title: The Role of Logic in Knowledge Representation and Commonsense Reasoning
+        link: http://www.aaai.org/Papers/AAAI/1982/AAAI82-103.pdf
+        venue: AAAI 1982
+        date:
+        presenters:
+    -
+        authors: Geoffrey Nunberg
+        title: Position Paper on Common-sense and Formal Semantics
+        link: http://aclweb.org/anthology/T87-1027
+        venue: TINLAP 1987
+        date:
+        presenters:
+    -
+        authors: Jerry R. Hobbs, W. Croft and T. Davies
+        title: Commonsense Metaphysics and Lexical Semantics
+        link: http://www.aclweb.org/anthology/J87-3004
+        venue: Computational Linguistics, 1987
+        date:
+        presenters:
+    -
+        authors: Kathleen Dahlgren and J. McDowell and Edward P. Stabler, Jr.
+        title: Knowledge Representaion for Commonsense Reasoning with Text
+        link: http://www.aclweb.org/anthology/J89-3002
+        venue: Computational Linguistics, 1989
+        date:
+        presenters:

@@ -6,22 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
 
-    <!-- CSS -->
-    <link href="{{site.baseurl}}/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{site.baseurl}}/assets/css/mt-class.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-    <!-- MathJax -->
-    <script type="text/javascript"
-      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    <!-- Mathjax -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
     </script>
+    <script
+      type="text/javascript"
+      charset="utf-8"
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    >
+    </script>
+    <script
+      type="text/javascript"
+      charset="utf-8"
+      src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+    >
+    </script>
+
+    <!-- CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="{{ site.baseurl }}/assets/css/syntax.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
   </head>
-  <body>
+<body>
     <a class="sr-only" href="#content">Skip to main content</a>
 
     <!-- Docs master nav -->
-    <header class="navbar navbar-fixed-top navbar-default" role="banner">
+    <header class="navbar navbar-static-top navbar-default" role="banner">
       <div class="container">
         <div class="row">
         <div class="navbar-header">
@@ -32,29 +54,15 @@
             <span class="icon-bar"></span>
           </button>
           <ul class="nav navbar-nav">
-            <li id="main_page"><a href="{{site.baseurl}}/index.html" class="navbar-brand">Commonsense Reasoning</a></li>
+            <div class="hidden-sm hidden-xs"><li id="main-page"><a href="{{ site.baseurl }}/index.html" class="navbar-brand">CIS 700 - Commonsense Reasoning</a></li></div>
+            <div class="visible-sm visible-xs"><li id="main-page"><a href="{{ site.baseurl }}/index.html" class="navbar-brand">CIS 700</a></li></div>
           </ul>
         </div>
         <nav class="collapse navbar-collapse" role="navigation">
           <ul class="nav navbar-nav">
-            <li id="lectures"><a href="{{site.baseurl}}/presentation.html">Paper Presentation</a></li>
-            <li id="papers"><a href="{{site.baseurl}}/papers.html">Papers</a></li>
-            <li id="staff"><a href="{{site.baseurl}}/staff.html">Staff</a></li>
-            <!-- <li id="assignments"><a href="{{site.baseurl}}/assignments.html">Assignments</a></li> -->
-            <!-- <li id="rec_books"><a href="{{site.baseurl}}/suggested.html">Suggested Reading</a></li> -->
-            <!-- <li id="homework"> -->
-            <!--   <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework <span class="caret"></span></a> -->
-              <!-- <ol class="dropdown-menu"> -->
-              <!--   <li><a href="{{site.baseurl}}/hw0.html">Setup (due January 27th)</a></li> -->
-              <!--   <li><a href="{{site.baseurl}}/hw1.html">Alignment (due February 3rd)</a></li> -->
-              <!--   <li><a href="{{site.baseurl}}/hw2.html">Decoding (due February 19th)</a></li> -->
-              <!--   <li><a href="{{site.baseurl}}/hw3.html">Evaluation (due March 5th)</a></li> -->
-              <!--   <li><a href="{{site.baseurl}}/hw4.html">Reranking (due March 26th)</a></li> -->
-              <!-- </ol> -->
-            <!-- </li> -->
-            <!-- <li id="leaderboard"><a href="{{site.baseurl}}/leaderboard.html">Leaderboard</a></li> -->
-            <!-- <li id="project"><a href="{{site.baseurl}}/project.html">Term Project</a></li> -->
-            <!-- <li id="language-research"><a href="{{site.baseurl}}/language-research.html">Language Research</a></li> -->
+            <li id="lectures"><a href="{{ site.baseurl }}/papers.html">Papers</a></li>
+            <li id="quizzes"><a href="{{ site.baseurl }}/presentation.html">Presentations</a></li>
+            <li id="staff"><a href="{{ site.baseurl }}/staff.html">Staff</a></li>
           </ul>
         </nav>
       </div>
@@ -62,37 +70,43 @@
     </header>
 
     <div class="container">
+      {% if page.img %}
       <div class="row">
         <div class="col-sm-2 hidden-sm hidden-xs">
           {% if page.img_link %}<a href="{{ page.img_link }}">{% endif %}
-          {% if page.img %}<img src="{{site.baseurl}}/assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.picture }}"/> {% endif %}
+          <img src="{{ site.baseurl }}/assets/img/{{ page.img }}" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
           {% if page.img_link %}</a>{% endif %}
           <span class="text-muted"><i>{{ page.caption }}</i></span>
+
         </div>
+
         <div class="col-sm-10">
           {{ content }}
         </div>
       </div>
+      {% else %}
+          {{ content }}
+      {% endif %}
+      </div>
 
-      <footer class="text-center text-muted">
-        <hr/>
-        Last updated {{ site.time | date: "%B %d, %Y" }}.<br/>
-	Website layout borrowed from <a href="https://github.com/mt-class/penn"> github <i class="fa fa-github-alt"></i></a>.
-	<br/><br/>
-	<img src="{{site.baseurl}}/assets/img/logo.jpg" class="img-responsive img-rounded" alt="UPenn Logo" style="width: 13%; height: 10%; margin: 0 auto;text-align: center"/>
-	<br/><br/>
-      </footer>
-    </div>
+    <footer class="text-center text-muted">
+      <hr>
+      {% if page.attribution %}
+      {{page.attribution | markdownify}}<br>
+      {% else %}
+      Last updated {{ site.time | date: "%B %d, %Y " }}
+      <br><br>
+      {% endif %}
+    </footer>
 
-    <!-- Page content of course! -->
-    <!-- JS and analytics only. -->
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./dist/js/bootstrap.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function(){
         $("#{{ page.active_tab }}").addClass("active");
+        {% if page.js_onready %}
+          {{ page.js_onready }}
+        {% endif %}
       });
     </script>
   </body>
