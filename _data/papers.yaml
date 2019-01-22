@@ -214,7 +214,21 @@ suggested:
 
 old:
     -
-        authors: Robert C. More
+        authors: John McCarthy
+        title: Programs with Common Sense
+        link: https://www.cs.cornell.edu/selman/cs672/readings/mccarthy-upd.pdf
+        venue: Semantic Information Processing 1968
+        date:
+        presenters:
+    -
+        authors: John McCarthy
+        title: An Example for Natural Language Understanding and the AI Problems it Raises
+        link: http://jmc.stanford.edu/articles/mrhug.html
+        venue: 1976
+        date:
+        presenters:
+    -
+        authors: Robert C. Moore
         title: The Role of Logic in Knowledge Representation and Commonsense Reasoning
         link: http://www.aaai.org/Papers/AAAI/1982/AAAI82-103.pdf
         venue: AAAI 1982
