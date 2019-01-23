@@ -1,6 +1,14 @@
 # Add date: YEAR-MONTH-DATE format
 suggested:
     -
+        authors: Maxwell Forbes and Yejin Choi
+        title: 'Verb Physics: Relative Physical Knowledge of Actions and Objects'
+        link: https://arxiv.org/pdf/1706.03799.pdf
+        venue: ACL 2017
+        date:
+        presenters:
+        nopresent:
+    -
         authors: Aida Nematzadeh et al.
         title: Evaluating Theory of Mind in Question Answering
         link: http://www.aidanematzadeh.me/papers/nematzadeh_etal_18_emnlp.pdf
