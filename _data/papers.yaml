@@ -1,6 +1,14 @@
 # Add date: YEAR-MONTH-DATE format
 suggested:
     -
+        authors: Maarten Sap et al.
+        title: 'ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning'
+        link: https://arxiv.org/pdf/1811.00146.pdf
+        venue: AAAI 2019
+        date:
+        presenters:
+        nopresent:
+    -
         authors: Maxwell Forbes and Yejin Choi
         title: 'Verb Physics: Relative Physical Knowledge of Actions and Objects'
         link: https://arxiv.org/pdf/1706.03799.pdf
