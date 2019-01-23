@@ -8,21 +8,15 @@ active_tab: papers
 
 ### Suggested Reading
 
-Papers that are suggested for presenting are marked with **&#9829;**
+ <!-- Papers that are suggested for presenting are marked with **&#9829;** -->
 
-<tbody>
-    <ul>
-        {% for paper in site.data.papers.suggested %}
-    	   <li> {{ paper.authors}} <a href="{{ paper.link }}">{{ paper.title }}</a> {{ paper.venue}} </li>
-        {% endfor %}
-   </ul>
-</tbody>
+{% for paper in site.data.papers.suggested %}
+* {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
+{% endfor %}
+
 
 ### Few old papers but good reads
-<tbody>
-    <ul>
-        {% for paper in site.data.papers.old %}
-    	   <li> {{ paper.authors}} <a href="{{ paper.link }}">{{ paper.title }}</a> {{ paper.venue}} </li>
-        {% endfor %}
-   </ul>
-</tbody>
+
+{% for paper in site.data.papers.old %}
+* {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
+{% endfor %}

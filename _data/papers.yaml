@@ -1,6 +1,14 @@
 # Add date: YEAR-MONTH-DATE format
 suggested:
     -
+        authors: Aida Nematzadeh et al.
+        title: Evaluating Theory of Mind in Question Answering
+        link: http://www.aidanematzadeh.me/papers/nematzadeh_etal_18_emnlp.pdf
+        venue: EMNLP 2018
+        date:
+        presenters:
+        nopresent:
+    -
         authors: Niket Tandon, G. Melo and G. Weikum
         title: Acquiring Comparative Commonsense Knowledge from the Web
         link: https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8649/8415
