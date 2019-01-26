@@ -1,0 +1,23 @@
+-
+  date: 2019-01-23
+  title: Introduction
+  slides: slides/Lec1-Intro-1-23-2019.pptx
+  comments: Introduction to Class, Motivation, Logistics
+
+# -
+#   date: 2017-09-7
+#   title: Self Study (No Class)
+#   comments: Try running <a href="https://github.com/CogComp/illinois-sl">Illinois-SL</a> and its <a href="https://github.com/CogComp/illinois-sl-examples">examples</a> for next lecture. <br/> HW0 Solution Released.
+#   reading:
+#     -
+#       title: Constraint Classification for Multiclass Classification and Ranking, NIPS 2003
+#       author: S. Har-Peled, D. Roth and D. Zimak
+#       link: http://cogcomp.org/page/publication_view/108
+#     -
+#       author:  Y. Crammer and T. Singer
+#       title: Ultraconservative Online Algorithms for Multiclass Problems, JMLR 2003
+#       link: http://www.jmlr.org/papers/volume3/crammer03a/crammer03a.pdf
+#     -
+#       author: L. R. Rabiner
+#       title: A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition IEEE 1989.
+#       link: http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf
