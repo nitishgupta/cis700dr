@@ -295,3 +295,97 @@ old:
         venue: Computational Linguistics, 1989
         date:
         presenters:
+    -
+        authors: Lawrence Birnbaum
+        title: 'Rigor mortis: a response to Nilssons Logic and artificial intelligence'
+        link:
+        venue:
+        date:
+        presenters:
+    -
+        authors: Dan Roth
+        title: 'Learning to Reason: The Approach'
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Hector J. Levesque
+        title: The Winograd Schema Challenge
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Rodney A. Brooks
+        title: Intelligence without representation
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Eugene Charniak
+        title: Jack and Janet in search of a theory of knowledge.
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Schubert, Pelletier
+        title: 'From English to Logic: Context Free Computation of Conventional Logical Translations'
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Hobbs et al.
+        title: Interpretation as abduction
+        link:
+        venue: Computational Linguistics, 1989
+        date:
+        presenters:
+
+    -
+        authors: Robert Moore
+        title:  Problems in Logical Forms
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Ngo, Haddawy
+        title: Probabilistic Logic Programming and Bayesian Networks
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Luc De Raedt and Angelika Kimmig
+        title: Probabilistic (logic) programming concepts
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Hoifung Poon and Pedro Domingos
+        title: Unsupervised Semantic Parsing,
+        link:
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Dan Roth and Wen-tau Yih
+        title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
+        link:
+        venue:
+        date:
+        presenters:

@@ -8,7 +8,18 @@ active_tab: papers
 
 ### Suggested Reading
 <br>
- <!-- Papers that are suggested for presenting are marked with **&#9829;** -->
+### Some Relevant Classical papers on Knowledge Representation and Reasoning
+{% for paper in site.data.papers.old %}
+{% if paper.link %}
+* {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
+{% else %}
+* {{ paper.authors}} {{ paper.title }}
+{% endif %}
+{% endfor %}
+
+<br>
+
+
 #### Information Extraction / Knowledge Acquisition
 {% for paper in site.data.papers.suggested.ie_ka %}
 * {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
@@ -34,12 +45,5 @@ active_tab: papers
 <br>
 #### Informational websites
 {% for paper in site.data.papers.suggested.info %}
-* {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
-{% endfor %}
-
-<br>
-### Few old papers but good reads
-
-{% for paper in site.data.papers.old %}
 * {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
 {% endfor %}
