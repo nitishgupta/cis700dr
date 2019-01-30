@@ -66,7 +66,7 @@ suggested:
         -
             authors: Erdal Kuzey, V. Setty, J. Strotgen and G. Weikum
             title: As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes
-            link: https://dl.acm.org/citation.cfm?id=2883055
+            link: http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p915.pdf
             venue: WWW 2016
             date:
             presenters:
@@ -94,7 +94,7 @@ suggested:
         -
             authors: Mark Granroth-Wilding and Stephen Clark
             title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
-            link: https://dl.acm.org/citation.cfm?id=3016283
+            link:  https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11995/12015
             venue: AAAI 2016
             date:
             presenters:
