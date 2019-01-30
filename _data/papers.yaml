@@ -284,6 +284,22 @@ old:
         date:
         presenters:
     -
+        authors: W.A. Woods
+        title: 'Whats in a Link: Foundations of Semantic Networks'
+        link: localpapers/link_woods.pdf
+        venue:
+        date:
+        presenters:
+    -
+        authors: Hector J. Levesque and Ronald J. Brachman
+        title: A Fundamental Tradeoff in Knowledge Representation and Reasoning
+        link: localpapers/brlevesque.pdf
+        venue:
+        date:
+        presenters:
+
+
+    -
         authors: John McCarthy
         title: Programs with Common Sense
         link: https://www.cs.cornell.edu/selman/cs672/readings/mccarthy-upd.pdf
