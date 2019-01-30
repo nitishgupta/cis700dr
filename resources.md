@@ -15,5 +15,12 @@ Download
 #### Template for Critical Surveys
 Download
 
+#### Pytorch Tutorials
+These [tutorials](https://pytorch.org/tutorials/) do a good job of introducing Pytorch.
+
+#### AllenNLP
+[AllenNLP](https://allennlp.org/) is a Open-source NLP research library, built on PyTorch.
+It is widely used in the community now and it will be useful to make yourself familiar with it.
+
 
 <!--  -->
