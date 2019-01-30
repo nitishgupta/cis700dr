@@ -254,6 +254,36 @@ suggested:
 
 old:
     -
+        authors: Eugene Charniak
+        title: Jack and Janet in search of a theory of knowledge.
+        link: localpapers/charniak.pdf
+        venue:
+        date:
+        presenters:
+    -
+        authors: Hector J. Levesque
+        title: The Winograd Schema Challenge
+        link: http://www.cs.toronto.edu/~hector/Papers/winograd.pdf
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Hoifung Poon and Pedro Domingos
+        title: Unsupervised Semantic Parsing,
+        link: https://aclanthology.info/pdf/D/D09/D09-1001.pdf
+        venue:
+        date:
+        presenters:
+
+    -
+        authors: Dan Roth and Wen-tau Yih
+        title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
+        link: http://cogcomp.org/papers/RothYi04.pdf
+        venue:
+        date:
+        presenters:
+    -
         authors: John McCarthy
         title: Programs with Common Sense
         link: https://www.cs.cornell.edu/selman/cs672/readings/mccarthy-upd.pdf
@@ -309,15 +339,6 @@ old:
         venue:
         date:
         presenters:
-
-    -
-        authors: Hector J. Levesque
-        title: The Winograd Schema Challenge
-        link: http://www.cs.toronto.edu/~hector/Papers/winograd.pdf
-        venue:
-        date:
-        presenters:
-
     -
         authors: Rodney A. Brooks
         title: Intelligence without representation
@@ -325,15 +346,6 @@ old:
         venue:
         date:
         presenters:
-
-    -
-        authors: Eugene Charniak
-        title: Jack and Janet in search of a theory of knowledge.
-        link: localpapers/charniak.pdf
-        venue:
-        date:
-        presenters:
-
     -
         authors: Schubert, Pelletier
         title: 'From English to Logic: Context Free Computation of Conventional Logical Translations'
@@ -370,22 +382,6 @@ old:
         authors: Luc De Raedt and Angelika Kimmig
         title: Probabilistic (logic) programming concepts
         link: localpapers/luc.pdf
-        venue:
-        date:
-        presenters:
-
-    -
-        authors: Hoifung Poon and Pedro Domingos
-        title: Unsupervised Semantic Parsing,
-        link: https://aclanthology.info/pdf/D/D09/D09-1001.pdf
-        venue:
-        date:
-        presenters:
-
-    -
-        authors: Dan Roth and Wen-tau Yih
-        title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
-        link: http://cogcomp.org/papers/RothYi04.pdf
         venue:
         date:
         presenters:
