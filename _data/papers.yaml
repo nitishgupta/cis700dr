@@ -298,14 +298,14 @@ old:
     -
         authors: Lawrence Birnbaum
         title: 'Rigor mortis: a response to Nilssons Logic and artificial intelligence'
-        link:
+        link: localpapers/birnbaum.pdf
         venue:
         date:
         presenters:
     -
         authors: Dan Roth
         title: 'Learning to Reason: The Approach'
-        link:
+        link: http://cogcomp.org/papers/approach.pdf
         venue:
         date:
         presenters:
@@ -313,7 +313,7 @@ old:
     -
         authors: Hector J. Levesque
         title: The Winograd Schema Challenge
-        link:
+        link: http://www.cs.toronto.edu/~hector/Papers/winograd.pdf
         venue:
         date:
         presenters:
@@ -321,7 +321,7 @@ old:
     -
         authors: Rodney A. Brooks
         title: Intelligence without representation
-        link:
+        link: https://people.csail.mit.edu/brooks/papers/representation.pdf
         venue:
         date:
         presenters:
@@ -329,7 +329,7 @@ old:
     -
         authors: Eugene Charniak
         title: Jack and Janet in search of a theory of knowledge.
-        link:
+        link: localpapers/charniak.pdf
         venue:
         date:
         presenters:
@@ -337,7 +337,7 @@ old:
     -
         authors: Schubert, Pelletier
         title: 'From English to Logic: Context Free Computation of Conventional Logical Translations'
-        link:
+        link: localpapers/schubert.pdf
         venue:
         date:
         presenters:
@@ -345,7 +345,7 @@ old:
     -
         authors: Hobbs et al.
         title: Interpretation as abduction
-        link:
+        link: http://www.aclweb.org/anthology/P88-1012
         venue: Computational Linguistics, 1989
         date:
         presenters:
@@ -353,7 +353,7 @@ old:
     -
         authors: Robert Moore
         title:  Problems in Logical Forms
-        link:
+        link: localpapers/moore.pdf
         venue:
         date:
         presenters:
@@ -361,7 +361,7 @@ old:
     -
         authors: Ngo, Haddawy
         title: Probabilistic Logic Programming and Bayesian Networks
-        link:
+        link: localpapers/haddawy2.pdf
         venue:
         date:
         presenters:
@@ -369,7 +369,7 @@ old:
     -
         authors: Luc De Raedt and Angelika Kimmig
         title: Probabilistic (logic) programming concepts
-        link:
+        link: localpapers/luc.pdf
         venue:
         date:
         presenters:
@@ -377,7 +377,7 @@ old:
     -
         authors: Hoifung Poon and Pedro Domingos
         title: Unsupervised Semantic Parsing,
-        link:
+        link: https://aclanthology.info/pdf/D/D09/D09-1001.pdf
         venue:
         date:
         presenters:
@@ -385,7 +385,7 @@ old:
     -
         authors: Dan Roth and Wen-tau Yih
         title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
-        link:
+        link: http://cogcomp.org/papers/RothYi04.pdf
         venue:
         date:
         presenters:
