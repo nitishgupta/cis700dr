@@ -55,9 +55,9 @@
 
 -
     date: 2019-02-27
-    title: No Class
+    title: Project Discussion
     slides:
-    comments: Dan Roth - out of town
+    comments:
 
 -
     date: 2019-03-04
@@ -81,9 +81,9 @@
 
 -
     date: 2019-03-13
-    title: No Class
+    title: Project Discussion
     slides:
-    comments: Dan Roth - out of town
+    comments:
 
 -
     date: 2019-03-18
@@ -137,9 +137,9 @@
 
 -
     date: 2019-04-10
-    title: No Class
+    title: Project Discussion
     slides:
-    comments: Dan Roth - out of town
+    comments:
 
 -
     date: 2019-04-15
@@ -167,7 +167,7 @@
 
 # -
 #   date: 2017-09-7
-#   title: Self Study (No Class)
+#   title: Self Study (Project Discussion)
 #   comments: Try running <a href="https://github.com/CogComp/illinois-sl">Illinois-SL</a> and its <a href="https://github.com/CogComp/illinois-sl-examples">examples</a> for next lecture. <br/> HW0 Solution Released.
 #   reading:
 #     -
