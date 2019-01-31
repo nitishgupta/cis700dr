@@ -10,7 +10,8 @@ active_tab: main_page
 <br>
 <br>
 #### Template for Paper Presentations
-Download
+[Download the powerpoint template](assets/ppt/paper_presentation_template.pptx) -
+Follow this template as closely as possible
 
 #### Template for Critical Surveys
 Download
