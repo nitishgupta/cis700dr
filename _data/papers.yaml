@@ -3,14 +3,26 @@ suggested:
     # IE and Knowledge Acquisition
     ie_ka:
         -
-            authors: Maarten Sap et al.
-            title: 'ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning'
-            link: https://arxiv.org/pdf/1811.00146.pdf
-            venue: AAAI 2019
+            authors: Jonathan Berant, I. Dagan and J. Goldberger
+            title: Global learning of focused entailment graphs
+            link: http://www.aclweb.org/anthology/P10-1124
+            venue: ACL 2010
             date:
             presenters:
-            nopresent:
-
+        -
+            authors: Jonathan Berant, I. Dagan and J. Goldberger
+            title: Global Learning of Typed Entailment Rules
+            link: http://www.aclweb.org/anthology/P11-1062
+            venue: ACL 2011
+            date:
+            presenters:
+        -
+            authors: Zornitsa Kozareva and E. Hovy
+            title: Learning Temporal Information for States and Events
+            link: https://ieeexplore.ieee.org/document/6061471
+            venue: ICSC 2011
+            date:
+            presenters:
         -
             authors: Niket Tandon, G. Melo and G. Weikum
             title: Acquiring Comparative Commonsense Knowledge from the Web
@@ -19,7 +31,27 @@ suggested:
             date:
             presenters:
             nopresent: false
-
+        -
+            authors: Tanja Samardzic and Paola Merlo
+            title: Aspect-based Learning of Event Duration Using Parallel Corpora
+            link: http://www.spur.uzh.ch/dam/jcr:52e2a511-1081-4b06-8ec5-e852cf7f0f4f/Aspect-duration.pdf
+            venue: 2016
+            date:
+            presenters:
+        -
+            authors: Erdal Kuzey, V. Setty, J. Strotgen and G. Weikum
+            title: As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes
+            link: http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p915.pdf
+            venue: WWW 2016
+            date:
+            presenters:
+        -
+            authors: Mark Granroth-Wilding and Stephen Clark
+            title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
+            link:  https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11995/12015
+            venue: AAAI 2016
+            date:
+            presenters:
         -
             authors: Maxwell Forbes and Yejin Choi
             title: 'Verb Physics: Relative Physical Knowledge of Actions and Objects'
@@ -28,6 +60,13 @@ suggested:
             date:
             presenters:
             nopresent:
+        -
+            authors: Zhongqing Wang, Y. Zhang and C. Chang
+            title: Integrating Order Information and Event Relation for Script Event Prediction
+            link: http://aclweb.org/anthology/D17-1006
+            venue: EMNLP 2017
+            date:
+            presenters:
         -
             authors: Yiben Yang, L. Birnbaum, J. Wang and D. Downey
             title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
@@ -50,55 +89,56 @@ suggested:
             date:
             presenters:
         -
-            authors: Jonathan Berant, I. Dagan and J. Goldberger
-            title: Global learning of focused entailment graphs
-            link: http://www.aclweb.org/anthology/P10-1124
-            venue: ACL 2010
+            authors: Maarten Sap et al.
+            title: 'ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning'
+            link: https://arxiv.org/pdf/1811.00146.pdf
+            venue: AAAI 2019
             date:
             presenters:
-        -
-            authors: Jonathan Berant, I. Dagan and J. Goldberger
-            title: Global Learning of Typed Entailment Rules
-            link: http://www.aclweb.org/anthology/P11-1062
-            venue: ACL 2011
-            date:
-            presenters:
-        -
-            authors: Erdal Kuzey, V. Setty, J. Strotgen and G. Weikum
-            title: As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes
-            link: http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p915.pdf
-            venue: WWW 2016
-            date:
-            presenters:
-        -
-            authors: Tanja Samardzic and Paola Merlo
-            title: Aspect-based Learning of Event Duration Using Parallel Corpora
-            link: http://www.spur.uzh.ch/dam/jcr:52e2a511-1081-4b06-8ec5-e852cf7f0f4f/Aspect-duration.pdf
-            venue: 2016
-            date:
-            presenters:
-        -
-            authors: Zornitsa Kozareva and E. Hovy
-            title: Learning Temporal Information for States and Events
-            link: https://ieeexplore.ieee.org/document/6061471
-            venue: ICSC 2011
-            date:
-            presenters:
-        -
-            authors: Zhongqing Wang, Y. Zhang and C. Chang
-            title: Integrating Order Information and Event Relation for Script Event Prediction
-            link: http://aclweb.org/anthology/D17-1006
-            venue: EMNLP 2017
-            date:
-            presenters:
-        -
-            authors: Mark Granroth-Wilding and Stephen Clark
-            title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
-            link:  https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11995/12015
-            venue: AAAI 2016
-            date:
-            presenters:
+            nopresent:
     reasoning:
+        -
+            authors: Bill MacCartney and C. Manning
+            title: Natural Logic for Textual Inference
+            link: https://nlp.stanford.edu/pubs/natlog-wtep07.pdf
+            venue: ACL Workshop on Textual Entailment and Paraphrasing 2007
+            date:
+            presenters:
+        -
+            authors: Gabor Angeli and C. Manning
+            title: NaturalLI - Natural Logic Inference for Common Sense Reasoning
+            link: https://nlp.stanford.edu/pubs/angeli2014-emnlp-naturalli.pdf
+            venue: EMNLP 2014
+            date:
+            presenters:
+        -
+            authors: Arun Tejasvi Chaganty and P. Liang
+            title: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+            link: https://cs.stanford.edu/~pliang/papers/perspectives-acl2016.pdf
+            venue: ACL 2016
+            date:
+            presenters:
+        -
+            authors: Georgios P. Spithourakis, I. Augenstein and S. Riedel
+            title: 'Numerically Grounded Language Models for Semantic Error Correction'
+            link: https://arxiv.org/pdf/1608.04147.pdf
+            venue: EMNLP 2016
+            date:
+            presenters:
+        -
+            authors: Alice Lai and Julia Hockenmaier
+            title: Learning to Predict Denotational Probabilities For Modeling Entailment
+            link: http://www.aclweb.org/anthology/E17-1068
+            venue: EACL 2017
+            date:
+            presenters:
+        -
+            authors: Guillem Collell, L. V. Gool and Marie-Francine Moens
+            title: Acquiring Common Sense Spatial Knowledge through Implicit Spatial Templates
+            link: https://arxiv.org/pdf/1711.06821.pdf
+            venue: AAAI 2018
+            date:
+            presenters:
         -
             authors: Aida Nematzadeh et al.
             title: Evaluating Theory of Mind in Question Answering
@@ -145,38 +185,10 @@ suggested:
             date:
             presenters:
         -
-            authors: Alice Lai and Julia Hockenmaier
-            title: Learning to Predict Denotational Probabilities For Modeling Entailment
-            link: http://www.aclweb.org/anthology/E17-1068
-            venue: EACL 2017
-            date:
-            presenters:
-        -
             authors: Qiaozi Gao, S. Yang, J. Y. Chai and L. Vanderwende
             title: What Action Causes This? Towards Naive Physical Action-Effect Prediction
             link: http://www.aclweb.org/anthology/P18-1086
             venue: ACL 2018
-            date:
-            presenters:
-        -
-            authors: Arun Tejasvi Chaganty and P. Liang
-            title: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
-            link: https://cs.stanford.edu/~pliang/papers/perspectives-acl2016.pdf
-            venue: ACL 2016
-            date:
-            presenters:
-        -
-            authors: Bill MacCartney and C. Manning
-            title: Natural Logic for Textual Inference
-            link: https://nlp.stanford.edu/pubs/natlog-wtep07.pdf
-            venue: ACL Workshop on Textual Entailment and Paraphrasing 2007
-            date:
-            presenters:
-        -
-            authors: Gabor Angeli and C. Manning
-            title: NaturalLI - Natural Logic Inference for Common Sense Reasoning
-            link: https://nlp.stanford.edu/pubs/angeli2014-emnlp-naturalli.pdf
-            venue: EMNLP 2014
             date:
             presenters:
         -
@@ -186,14 +198,6 @@ suggested:
             venue: ACL 2018
             date:
             presenters:
-        -
-            authors: Georgios P. Spithourakis, I. Augenstein and S. Riedel
-            title: 'Numerically Grounded Language Models for Semantic Error Correction'
-            link: https://arxiv.org/pdf/1608.04147.pdf
-            venue: EMNLP 2016
-            date:
-            presenters:
-
 
     evaluation_dataset:
         -
@@ -221,18 +225,10 @@ suggested:
 
     position:
         -
-            authors: Yoav Shoham
-            title: Why Knowledge Representation Matters
-            link: https://cacm.acm.org/magazines/2016/1/195730-why-knowledge-representation-matters/fulltext
-            venue: Communications of the ACM 2016
-            date:
-            presenters:
-
-        -
-            authors: Clive Thompson
-            title: How to teach Artificial Intelligence some Common Sense
-            link: https://www.wired.com/story/how-to-teach-artificial-intelligence-common-sense/
-            venue: WIRED 2018
+            authors: Geoffrey Nunberg
+            title: Position Paper on Common-sense and Formal Semantics
+            link: http://aclweb.org/anthology/T87-1027
+            venue: TINLAP 1987
             date:
             presenters:
         -
@@ -240,6 +236,13 @@ suggested:
             title: Building Machines That Learn and Think Like People
             link: https://cims.nyu.edu/~brenden/1604.00289v3.pdf
             venue: Behavioral and Brain Sciences 2016
+            date:
+            presenters:
+        -
+            authors: Clive Thompson
+            title: How to teach Artificial Intelligence some Common Sense
+            link: https://www.wired.com/story/how-to-teach-artificial-intelligence-common-sense/
+            venue: WIRED 2018
             date:
             presenters:
 
