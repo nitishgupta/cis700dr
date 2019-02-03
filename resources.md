@@ -23,7 +23,7 @@ active_tab: main_page
 Follow this template as closely as possible
 
 #### Critical Surveys
-1. You will write 4 critical surveys. Please submit these surveys on of before February 11, March 1, March 24, April 15. 
+1. You will write 4 critical surveys. Please submit these surveys on of before *February 11*, *March 1*, *March 24*, *April 15*. 
 2. Two of these can be (but do not have to be) on papers you served as a discuassant for. 
 3. A critical review will be up to one page, 11font; please do not spend more than a third of this page to describe what the paepr is doing. Use the rest of the space to provide a critic of the paper (what\'s good, what\'s bad; what you think is interesting; what they should have done better; your suggestions for improvements and/or for additional work in this direction, etc. 
 4. Please send your review as an email message to Dan and Nitish, with the subjeuct line CIS700dr Review #[1,2,3,4] studentid
