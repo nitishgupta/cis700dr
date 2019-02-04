@@ -7,9 +7,8 @@ active_tab: main_page
 ---
 
 # Resources & Requirements
-<br>
-<br>
 
+<br>
 #### Paper Presentations
 1. Each one of you should choose two papers, from two different categories. The order of the paper presentations will roughly be the chronological order of the papers, but we may deviate from it from time to time, to accommodate constraints and/or to have a sensible order of presentations.In addition, please choose 2 papers to be a discussant of.
 
@@ -23,19 +22,25 @@ active_tab: main_page
 [Download the powerpoint template](assets/ppt/paper_presentation_template.pptx) -
 Follow this template as closely as possible
 
-<br>
-Choose papers to present/discuss here: [Paper Presentation Selection Sheet](https://docs.google.com/spreadsheets/d/16MM_npFng9wLdfo8f7mIJ-9PhEZ0KAGZbHDnqXX4gbA/edit?usp=sharing)
+**Choose papers to present/discuss here: [Paper Presentation Selection Sheet](https://docs.google.com/spreadsheets/d/16MM_npFng9wLdfo8f7mIJ-9PhEZ0KAGZbHDnqXX4gbA/edit?usp=sharing)**
 
+*We will put the dates for presentations within a couple of days.*
+
+<br>
 #### Critical Surveys
 1. You will write 4 critical surveys. Please submit these surveys on of before *February 11*, *March 1*, *March 24*, *April 15*.
+
 2. Two of these can be (but do not have to be) on papers you served as a discussant for.
+
 3. A critical review will be up to one page, 11font; please do not spend more than a third of this page to describe what the paper is doing. Use the rest of the space to provide a critic of the paper (what\'s good, what\'s bad; what you think is interesting; what they should have done better; your suggestions for improvements and/or for additional work in this direction, etc.
+
 4. Please send your review as an email message to Dan and Nitish, with the subject line CIS700dr Review #[1,2,3,4] studentid
 
-
+<br>
 #### Pytorch Tutorials
 These [tutorials](https://pytorch.org/tutorials/) do a good job of introducing Pytorch.
 
+<br>
 #### AllenNLP
 [AllenNLP](https://allennlp.org/) is a Open-source NLP research library, built on PyTorch.
 It is widely used in the community now and it will be useful to make yourself familiar with it.
