@@ -3,6 +3,20 @@ suggested:
     # IE and Knowledge Acquisition
     ie_ka:
         -
+            authors: Michele Banko et al.
+            title: Open Information Extraction from the Web
+            link: https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf
+            venue: IJCAI 2007
+            date:
+            presenters:
+        -
+            authors: Nathanael Chambers and Dan Jurafsky
+            title: Unsupervised Learning of Narrative Schemas and their Participants
+            link: http://www.aclweb.org/anthology/P09-1068
+            venue: ACL 2009
+            date:
+            presenters:
+        -
             authors: Jonathan Berant, I. Dagan and J. Goldberger
             title: Global learning of focused entailment graphs
             link: http://www.aclweb.org/anthology/P10-1124
@@ -24,10 +38,32 @@ suggested:
             date:
             presenters:
         -
+            authors: Juri Ganitkevitch et al.
+            title: 'PPDB: The Paraphrase Database'
+            link: http://www.aclweb.org/anthology/N13-1092
+            venue: NAACL 2013 (Short Paper)
+            date:
+            presenters:
+        -
             authors: Niket Tandon, G. Melo and G. Weikum
             title: Acquiring Comparative Commonsense Knowledge from the Web
             link: https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8649/8415
             venue: AAAI 2014
+            date:
+            presenters:
+            nopresent: false
+        -
+            authors: Ellie Pavlick et al.
+            title: 'PPDB 2.0: Better paraphrase ranking, fine-grained entailment relations, word embeddings, and style classification'
+            link: http://www.aclweb.org/anthology/P15-2070
+            venue: ACL 2015 (Short Paper)
+            date:
+            presenters:
+        -
+            authors: Gabor Angeli et al.
+            title: Leveraging Linguistic Structure For Open Domain Information Extraction
+            link: https://nlp.stanford.edu/pubs/2015angeli-openie.pdf
+            venue: ACL 2015
             date:
             presenters:
             nopresent: false
@@ -68,6 +104,13 @@ suggested:
             date:
             presenters:
         -
+            authors: Qiang Ning, H. Wu, H. Peng and D. Roth
+            title: Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource
+            link: http://cogcomp.org/papers/NingWuPeRo18.pdf
+            venue: NAACL 2018
+            date:
+            presenters:
+        -
             authors: Yiben Yang, L. Birnbaum, J. Wang and D. Downey
             title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
             link: http://www.aclweb.org/anthology/P18-2102
@@ -89,6 +132,13 @@ suggested:
             date:
             presenters:
         -
+            authors: Abhijit Mahabal et al.
+            title: Robust Handling of Polysemy via Sparse Representations
+            link: http://cogcomp.org/papers/MahabalRoMi18.pdf
+            venue: StarSEM 2018
+            date:
+            presenters:
+        -
             authors: Maarten Sap et al.
             title: 'ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning'
             link: https://arxiv.org/pdf/1811.00146.pdf
@@ -105,10 +155,73 @@ suggested:
             date:
             presenters:
         -
+            authors: Hoifung Poon and Pedro Domingos
+            title: Unsupervised Semantic Parsing,
+            link: https://aclanthology.info/pdf/D/D09/D09-1001.pdf
+            venue: EMNLP 2009
+            date:
+            presenters:
+        -
+            authors: James Clarke et al.
+            title: Driving Semantic Parsing from the World’s Response
+            link: http://www.aclweb.org/anthology/W10-2903
+            venue: CoNLL 2010
+            date:
+            presenters:
+        # -
+        #     authors: Quang Xuan Do and Dan Roth
+        #     title: Exploiting the Wikipedia Structure in Local and Global Classification of Taxonomic Relations
+        #     link: http://cogcomp.org/papers/DoRo12.pdf
+        #     venue: NLE 2012
+        #     date:
+        #     presenters:
+        -
+            authors: Islam Beltagy et al.
+            title: 'Montague Meets Markov: Deep Semantics with Probabilistic Logical Form'
+            link: http://www.cs.utexas.edu/users/ml/papers/beltagy.starsem13.pdf
+            venue: StarSEM 2013
+            date:
+            presenters:
+        -
+            authors: Gerard de Melo and Mohit Bansal
+            title: 'Good, Great, Excellent: Global Inference of Semantic Intensities'
+            link: http://aclweb.org/anthology/Q13-1023
+            venue: TACL 2013
+            date:
+            presenters:
+        -
+            authors: Sebastian Riedel et al.
+            title: Relation Extraction with Matrix Factorization and Universal Schemas
+            link: http://www.aclweb.org/anthology/N13-1008
+            venue: NAACL 2013
+            date:
+            presenters:
+        -
+            authors: Matt Gardner et al.
+            title: Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases
+            link: http://www.aclweb.org/anthology/D14-1044
+            venue: EMNLP 2014
+            date:
+            presenters:
+        -
             authors: Gabor Angeli and C. Manning
             title: NaturalLI - Natural Logic Inference for Common Sense Reasoning
             link: https://nlp.stanford.edu/pubs/angeli2014-emnlp-naturalli.pdf
             venue: EMNLP 2014
+            date:
+            presenters:
+        -
+            authors: Jayant Krishnamurthy and Tom M. Mitchell
+            title: Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary
+            link: http://www.aclweb.org/anthology/Q15-1019
+            venue: TACL 2015
+            date:
+            presenters:
+        -
+            authors: Jacob Andreas et al.
+            title: Learning to Compose Neural Networks for Question Answering
+            link: http://www.aclweb.org/anthology/N16-1181
+            venue: NAACL 2016
             date:
             presenters:
         -
@@ -126,12 +239,33 @@ suggested:
             date:
             presenters:
         -
-            authors: Alice Lai and Julia Hockenmaier
-            title: Learning to Predict Denotational Probabilities For Modeling Entailment
-            link: http://www.aclweb.org/anthology/E17-1068
-            venue: EACL 2017
+            authors: Ashutosh Modi et al.
+            title: 'Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction'
+            link: https://arxiv.org/pdf/1702.03121.pdf
+            venue: TACL 2017
             date:
             presenters:
+        -
+            authors: Shashank Srivastava, I. Labutov and Tom Mitchell
+            title: Joint Concept Learning and Semantic Parsing from Natural Language Explanations
+            link: http://www.cs.cmu.edu/~shashans/papers/srivastava17-jointLNL.pdf
+            venue: EMNLP 2017
+            date:
+            presenters:
+        -
+            authors: Subhro Roy and Dan Roth
+            title: Mapping to Declarative Knowledge for Word Problem Solving
+            link: https://arxiv.org/pdf/1712.09391.pdf
+            venue: TACL 2018
+            date:
+            presenters:
+        # -
+        #     authors: Alice Lai and Julia Hockenmaier
+        #     title: Learning to Predict Denotational Probabilities For Modeling Entailment
+        #     link: http://www.aclweb.org/anthology/E17-1068
+        #     venue: EACL 2017
+        #     date:
+        #     presenters:
         -
             authors: Guillem Collell, L. V. Gool and Marie-Francine Moens
             title: Acquiring Common Sense Spatial Knowledge through Implicit Spatial Templates
@@ -200,6 +334,13 @@ suggested:
             presenters:
 
     evaluation_dataset:
+        -
+            authors: Ranjay Krishna et al.
+            title: 'Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations'
+            link: https://arxiv.org/pdf/1602.07332.pdf
+            venue: IJCV 2016
+            date:
+            presenters:
         -
             authors: Rowan Zellers, Y. Bisk, R. Schwartz and Y. Choi
             title: SWAG - A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
@@ -270,15 +411,6 @@ old:
         venue:
         date:
         presenters:
-
-    -
-        authors: Hoifung Poon and Pedro Domingos
-        title: Unsupervised Semantic Parsing,
-        link: https://aclanthology.info/pdf/D/D09/D09-1001.pdf
-        venue:
-        date:
-        presenters:
-
     -
         authors: Dan Roth and Wen-tau Yih
         title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
