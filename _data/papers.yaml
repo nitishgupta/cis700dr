@@ -10,6 +10,13 @@ suggested:
             date:
             presenters:
         -
+            authors: Fabian M. Suchanek et al.
+            title: 'YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia'
+            link: https://www2007.org/papers/paper391.pdf
+            venue: WWW 2007
+            date:
+            presenters:
+        -
             authors: Nathanael Chambers and Dan Jurafsky
             title: Unsupervised Learning of Narrative Schemas and their Participants
             link: http://www.aclweb.org/anthology/P09-1068
@@ -38,13 +45,6 @@ suggested:
             date:
             presenters:
         -
-            authors: Juri Ganitkevitch et al.
-            title: 'PPDB: The Paraphrase Database'
-            link: http://www.aclweb.org/anthology/N13-1092
-            venue: NAACL 2013 (Short Paper)
-            date:
-            presenters:
-        -
             authors: Niket Tandon, G. Melo and G. Weikum
             title: Acquiring Comparative Commonsense Knowledge from the Web
             link: https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8649/8415
@@ -52,13 +52,6 @@ suggested:
             date:
             presenters:
             nopresent: false
-        -
-            authors: Ellie Pavlick et al.
-            title: 'PPDB 2.0: Better paraphrase ranking, fine-grained entailment relations, word embeddings, and style classification'
-            link: http://www.aclweb.org/anthology/P15-2070
-            venue: ACL 2015 (Short Paper)
-            date:
-            presenters:
         -
             authors: Gabor Angeli et al.
             title: Leveraging Linguistic Structure For Open Domain Information Extraction
