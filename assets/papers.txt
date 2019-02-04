@@ -1,0 +1,50 @@
+IE
+    Open Information Extraction from the Web, IJCAI 2007
+    'YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia', WWW 2007
+    Unsupervised Learning of Narrative Schemas and their Participants, ACL 2009
+    Global learning of focused entailment graphs, ACL 2010
+    Global Learning of Typed Entailment Rules, ACL 2011
+    Learning Temporal Information for States and Events, ICSC 2011
+    Acquiring Comparative Commonsense Knowledge from the Web, AAAI 2014
+    Leveraging Linguistic Structure For Open Domain Information Extraction, ACL 2015
+    Aspect-based Learning of Event Duration Using Parallel Corpora, 2016
+    As Time Goes By - Comprehensive Tagging of Textual Phrases with Temporal Scopes, WWW 2016
+    What Happens Next? Event Prediction Using a Compositional Neural Network Model, AAAI 2016
+    'Verb Physics: Relative Physical Knowledge of Actions and Objects', ACL 2017
+    Integrating Order Information and Event Relation for Script Event Prediction, EMNLP 2017
+    Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource, NAACL 2018
+    Extracting Commonsense Properties from Embeddings with Limited Human Guidance, ACL 2018
+    HyTE - Hyperplane-based Temporally aware Knowledge Graph Embedding, EMNLP 2018
+    'Lighter Can Still Be Dark: Modeling Comparative Color Descriptions', ACL 2018
+    Robust Handling of Polysemy via Sparse Representations, StarSEM 2018
+    'ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning', AAAI 2019
+    nopresent:
+reasoning:
+    Natural Logic for Textual Inference, ACL Workshop on Textual Entailment and Paraphrasing 2007
+    Unsupervised Semantic Parsing,, EMNLP 2009
+    Driving Semantic Parsing from the World’s Response, CoNLL 2010
+    'Montague Meets Markov: Deep Semantics with Probabilistic Logical Form', StarSEM 2013
+    'Good, Great, Excellent: Global Inference of Semantic Intensities', TACL 2013
+    Relation Extraction with Matrix Factorization and Universal Schemas, NAACL 2013
+    Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases, EMNLP 2014
+    NaturalLI - Natural Logic Inference for Common Sense Reasoning, EMNLP 2014
+    Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary, TACL 2015
+    Learning to Compose Neural Networks for Question Answering, NAACL 2016
+    How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions, ACL 2016
+    'Numerically Grounded Language Models for Semantic Error Correction', EMNLP 2016
+    'Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction', TACL 2017
+    Joint Concept Learning and Semantic Parsing from Natural Language Explanations, EMNLP 2017
+    Mapping to Declarative Knowledge for Word Problem Solving, TACL 2018
+    Acquiring Common Sense Spatial Knowledge through Implicit Spatial Templates, AAAI 2018
+    Evaluating Theory of Mind in Question Answering, EMNLP 2018
+    A Simple Method for Commonsense Reasoning, ArXiv 2018
+    A Knowledge Hunting Framework for Common Sense Reasoning, EMNLP 2018
+    Commonsense Justification for Action Explanation, EMNLP 2018
+    Commonsense for Generative Multi-Hop Question Answering Tasks, EMNLP 2018
+    Compositional Attention Networks For Machine Reasoning, ICLR 2018
+    What Action Causes This? Towards Naive Physical Action-Effect Prediction, ACL 2018
+    'Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers', ACL 2018
+Dataset
+    'Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations', IJCV 2016
+    SWAG - A Large-Scale Adversarial Dataset for Grounded Commonsense Inference, EMNLP 2018
+    Modeling Naive Psychology of Characters in Simple Commonsense Stories, ACL 2018
