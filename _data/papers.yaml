@@ -232,6 +232,13 @@ suggested:
             date:
             presenters:
         -
+            authors: Sheng Zhang et al.
+            title: 'Ordinal Common-sense Inference'
+            link: http://aclweb.org/anthology/Q17-1027
+            venue: TACL 2017
+            date:
+            presenters:
+        -
             authors: Ashutosh Modi et al.
             title: 'Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction'
             link: https://arxiv.org/pdf/1702.03121.pdf
