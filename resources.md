@@ -37,6 +37,23 @@ Follow this template as closely as possible
 4. Please send your review as an email message to Dan and Nitish, with the subject line CIS700dr Review #[1,2,3,4] studentid
 
 <br>
+#### Project 1: Reproducing a Paper\'s Results
+This project requires you to reproduce the results of a paper. This project needs to be done **individually**; put your name below the paper you would like to reproduce in the following spreadsheet --
+**[Project 1 Paper Selection Spreadsheet](https://docs.google.com/spreadsheets/d/1aUY9g8G7weXE8W_nIhnRfBceYHmE8tEXKpkgad44D1s/edit?usp=sharing)**
+
+The data required for all the papers is available online.
+
+One of the following paper can be chosen:
+1. Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+2. Global Learning of Typed Entailment Rules
+3. Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction
+4. How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+
+For the fourth paper *\'How Much is 131 ...\'*, it is highly recommended that you use AllenNLP. It will make writing code really easy, and is a great tool to learn for writing NLP research code in general. Using Pytorch, Tensorflow or DyNet is fine as well.
+
+The submission deadline for this project is **11th March**. Further details on what is expected to be submitted will be posted at a later date.
+
+<br>
 #### Pytorch Tutorials
 These [tutorials](https://pytorch.org/tutorials/) do a good job of introducing Pytorch.
 

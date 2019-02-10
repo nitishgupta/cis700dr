@@ -27,7 +27,13 @@
     date: 2019-02-06
     title: Introduction to Structured Prediction
     slides: slides/Lec5-SP-2-6-2019.pptx
+    presentations:
+        -
+            title: Global Learning of Focused Entailment Graphs
+            presenter: Hangfeng He
+            link: presentation_slides/BDG10.pptx
     comments:
+
 
 -
     date: 2019-02-11
