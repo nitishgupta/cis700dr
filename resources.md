@@ -36,6 +36,8 @@ Follow this template as closely as possible
 
 4. Please send your review as an email message to Dan and Nitish, with the subject line CIS700dr Review #[1,2,3,4] studentid
 
+Here is a [great critical survey written by a student](assets/PaperCriticExample.pdf) that can be used as a reference for how to go about writing paper critics.
+
 <br>
 #### Project 1: Reproducing a Paper\'s Results
 This project requires you to reproduce the results of a paper. This project needs to be done **individually**; put your name below the paper you would like to reproduce in the following spreadsheet --
