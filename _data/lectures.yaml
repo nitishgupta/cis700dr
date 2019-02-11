@@ -21,6 +21,15 @@
     date: 2019-02-04
     title:
     slides:
+    presentations:
+        -
+            title: The Winograd Schema Challenge
+            presenter: Oshin Agarwal
+            link: presentation_slides/Winograd.pptx
+        -
+            title: A Fundamental Tradeoff in Knowledge Representation and Reasoning
+            presenter: Deniz Beser
+            link: presentation_slides/LeBr84.pptx
     comments:
 
 -
@@ -32,6 +41,10 @@
             title: Global Learning of Focused Entailment Graphs
             presenter: Hangfeng He
             link: presentation_slides/BDG10.pptx
+        -
+            title: A Linear Programming Formulation for Global Inference in Natural Language Tasks​
+            presenter: Soham Dan
+            link: presentation_slides/RoYi04.pptx
     comments:
 
 
