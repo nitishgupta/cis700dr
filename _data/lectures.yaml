@@ -52,6 +52,11 @@
     date: 2019-02-11
     title:
     slides:
+    presentations:
+        -
+            title: Open Information Extraction from the Web
+            presenter: Nivedha Sivakumar
+            link: presentation_slides/OpenIE.pptx
     comments:
 
 -
@@ -68,6 +73,12 @@
 
 -
     date: 2019-02-20
+    title:
+    slides:
+    comments:
+
+-
+    date: 2019-02-25
     title:
     slides:
     comments:
@@ -109,13 +120,6 @@
     title:
     slides:
     comments:
-
--
-    date: 2019-03-20
-    title:
-    slides:
-    comments:
-
 
 -
     date: 2019-03-20
