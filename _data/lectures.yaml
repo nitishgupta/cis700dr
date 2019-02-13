@@ -57,6 +57,10 @@
             title: Open Information Extraction from the Web
             presenter: Nivedha Sivakumar
             link: presentation_slides/OpenIE.pptx
+        -
+            title: 'YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia'
+            presenter: Mengdi Huang
+            link: presentation_slides/yago.pdf
     comments:
 
 -
