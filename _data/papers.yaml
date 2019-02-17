@@ -536,3 +536,10 @@ old:
         venue:
         date:
         presenters:
+    -
+        authors: Raymond Mooney and Gerald DeJong
+        title: Learning Schemata for Natural Language Processing
+        link: http://www.cs.utexas.edu/users/ml/papers/ijcai85.pdf
+        venue:
+        date:
+        presenters:
