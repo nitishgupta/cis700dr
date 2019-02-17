@@ -40,7 +40,7 @@ suggested:
         -
             authors: Zornitsa Kozareva and E. Hovy
             title: Learning Temporal Information for States and Events
-            link: https://ieeexplore.ieee.org/document/6061471
+            link: https://www.cs.cmu.edu/~hovy/papers/11ICSC-WS-event-duration.pdf
             venue: ICSC 2011
             date:
             presenters:
