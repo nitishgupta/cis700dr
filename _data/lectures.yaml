@@ -67,25 +67,56 @@
     date: 2019-02-13
     title:
     slides:
-    comments:
+    presentations:
+        -
+            title: Visual Genome
+            presenter: Chris Painter
+            link: presentation_slides/VisualGenome.pdf
+        -
+            title: SWAG - A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+            presenter: Rachit Saluja
+            link: # presentation_slides/swag.pdf
 
 -
     date: 2019-02-18
     title:
     slides:
-    comments:
+    presentations:
+        -
+            title: Learning Temporal Information for States and Events
+            presenter: Sanjna Kashyap
+            link: presentation_slides/TemporalStates.pptx
+        -
+            title: Unsupervised Learning of Narrative Schemas and their Participants
+            presenter: Halley Young
+            link: # presentation_slides/narrativeschemas.pdf
+
 
 -
     date: 2019-02-20
-    title:
+    title: NO CLASS
     slides:
-    comments:
+
 
 -
     date: 2019-02-25
     title:
     slides:
-    comments:
+    presentations:
+        -
+            title:  Integrating Order Information and Event Relation for Script Event Prediction
+            presenter: Disha Jindal
+            link: presentation_slides/ScriptEventPred.pdf
+        -
+            title: Modeling Naive Psychology of Story Characters in SImple Commonsense Stories
+            presenter: Aishwarya Singh
+            link: presentation_slides/psychology.pptx
+        -
+            title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
+            presenter: Soham Parikh
+            link: presentation_slides/EventPrediction.key
+
+
 
 -
     date: 2019-02-27
