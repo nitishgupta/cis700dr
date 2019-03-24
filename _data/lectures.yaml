@@ -143,6 +143,15 @@
     title:
     slides:
     comments:
+    presentations:
+        -
+            title:  NaturalLI - Natural Logic Inference for Common Sense Reasoning
+            presenter: Hangfeng He
+            link: presentation_slides/naturallogic.pptx
+        -
+            title: 'Montague Meets Markov: Deep Semantics with Probabilistic Logical Form'
+            presenter: Sanjna Kashyap
+            link: presentation_slides/montague.pptx
 
 -
     date: 2019-03-13
@@ -155,18 +164,47 @@
     title:
     slides:
     comments:
+    presentations:
+        -
+            title: 'Verb Physics: Relative Physical Knowledge of Actions and Objects'
+            presenter: Nidhi Sridhar
+            link: presentation_slides/verbphysics.pptx
+        -
+            title: Acquiring Comparative Commonsense Knowledge from the Web
+            presenter: Aishwarya Singh
+            link: presentation_slides/acquiring_ccs.pptx
 
 -
     date: 2019-03-20
     title:
     slides:
     comments:
+    presentations:
+        -
+            title: Leveraging Linguistic Structure For Open Domain Information Extraction
+            presenter: Sandeep Dcunha
+            link: presentation_slides/openiels.pptx
+        -
+            title: Relation Extraction with Matrix Factorization and Universal Schemas
+            presenter: Rachit Saluja
+            link: presentation_slides/mf.pptx
 
 -
     date: 2019-03-25
     title:
     slides:
     comments:
+    presentations:
+        -
+            title: Robust Handling of Polysemy via Sparse Representations
+            presenter: Rushab Munot
+            link: presentation_slides/polysemy.pptx
+        -
+            title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+            presenter: Barry Plunkett
+            link: presentation_slides/csembeddings.pptx
+
+
 
 
 -
