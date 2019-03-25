@@ -114,7 +114,7 @@
         -
             title: What Happens Next? Event Prediction Using a Compositional Neural Network Model
             presenter: Soham Parikh
-            link: presentation_slides/EventPrediction.key
+            link: presentation_slides/EventPrediction.pdf
 
 
 
@@ -207,9 +207,6 @@
             title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
             presenter: Barry Plunkett
             link: presentation_slides/csembeddings.pptx
-
-
-
 
 -
     date: 2019-03-27
