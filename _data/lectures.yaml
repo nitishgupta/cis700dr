@@ -173,6 +173,10 @@
             title: Acquiring Comparative Commonsense Knowledge from the Web
             presenter: Aishwarya Singh
             link: presentation_slides/acquiring_ccs.pptx
+        -
+            title: A Simple Method for Commonsense Reasoning
+            presenter: Nidhi Sridhar
+            link: presentation_slides/simple_cs.pptx
 
 -
     date: 2019-03-20
