@@ -94,7 +94,7 @@
 
 -
     date: 2019-02-20
-    title: NO CLASS
+    title: Snow day - No Class
     slides:
 
 
@@ -213,16 +213,38 @@
     title:
     slides:
     comments:
+    presentations:
+        -
+            title: Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+            presenter: Barry Plunket
+            link: presentation_slides/pce.pdf
+        -
+            title: Compositional Attention Networks For Machine Reasoning
+            presenter: Deniz Beser
+            link: presentation_slides/mac.pdf
+        -
+            title: Commonsense for Generative Multi-Hop Question Answering Tasks
+            presenter: Mengdi Huang
+            link: presentation_slides/genqa.pdf
 
 -
     date: 2019-04-01
     title:
     slides:
     comments:
+    presentations:
+        -
+            title: 'Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers'
+            presenter: Oshin Agarwal
+            link: presentation_slides/numeracy.pptx
+        -
+            title: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+            presenter: Nivedha Sivakumar
+            link: presentation_slides/HowMuchIs131Million.pptx
 
 -
     date: 2019-04-03
-    title: Project Discussion
+    title: Mid-point Project Presentations
     slides:
     comments:
 

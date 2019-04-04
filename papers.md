@@ -16,9 +16,18 @@ active_tab: papers
 * {{ paper.authors}} {{ paper.title }}
 {% endif %}
 {% endfor %}
-
 <br>
 
+### Survey Paper
+{% for paper in site.data.papers.survey %}
+{% if paper.link %}
+* {{ paper.authors}} [{{ paper.title }}]({{ paper.link }}) {{ paper.venue}}
+{% else %}
+* {{ paper.authors}} {{ paper.title }}
+{% endif %}
+{% endfor %}
+
+<br>
 
 #### Information Extraction / Knowledge Acquisition
 {% for paper in site.data.papers.suggested.ie_ka %}

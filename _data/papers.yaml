@@ -1,4 +1,14 @@
 # Add date: YEAR-MONTH-DATE format
+# Survey
+survey:
+    -
+        authors: Shane Storks, Qiaozi Gao, and Joyce Y. Chai
+        title: 'Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches'
+        link: https://arxiv.org/pdf/1904.01172.pdf
+        venue: ArXiv April 2019
+        date:
+        presenters:
+
 suggested:
     # IE and Knowledge Acquisition
     ie_ka:
